@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "naziv": "Početna",
+        "href": "index.html"
+    },
+    {
+        "id": 1,
+        "naziv": "O nama",
+        "href": "about.html"
+    },
+    {
+        "id": 1,
+        "naziv": "Prodavnica",
+        "href": "shop.html"
+    },
+    {
+        "id": 1,
+        "naziv": "Kontakt",
+        "href": "contact.html"
+    },
+    {
+        "id": 1,
+        "naziv": "Autor",
+        "href": "author.html"
+    }
+]

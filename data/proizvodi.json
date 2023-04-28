@@ -1,0 +1,423 @@
+[
+    {
+        "id": 1,
+        "naziv": "Air Jordan 1 Zoom",
+        "opis": "Air Jordan 1 Zoom patike su popularne patike koje su osmišljene za sportske aktivnosti, ali su postale popularne i kao modni komad. Ove patike su izrađene od visokokvalitetnih materijala koji osiguravaju dugotrajnost i udobnost. Jedna od ključnih karakteristika Air Jordan 1 Zoom patika je Zoom Air tehnologija koja osigurava odličnu amortizaciju i pruža dodatnu udobnost tokom trčanja ili drugih aktivnosti. Uz to, ove patike imaju čvrstu gumenu potplat koji pruža izvanrednu trakciju i stabilnost. Dostupne su u različitim bojama i uzorcima, pa ćete sigurno pronaći nešto što odgovara vašem stilu i preferencijama. Bilo da su namijenjene sportskim aktivnostima ili modnom stilu, Air Jordan 1 Zoom patike su izvrsna opcija za svakoga ko traži kvalitetne i moderne patike.",
+        "kategorijaID": 1,
+        "brendID": 4,
+        "polID": 2,
+        "cena": 
+        {
+            "staraCena": null,
+            "aktivnaCena": 16800
+        },
+        "popust": null,   
+        "slika": 
+        {
+            "src": "AirJordan-1Zoom.png",
+            "alt": "Air Jordan 1 Zoom"
+        },
+        "ocena": null,
+        "datumKreiranja": "2022-12-31"
+    },
+    {
+        "id": 2,
+        "naziv": "Givenchy Antigona",
+        "opis": "Givenchy stikla je elegantna ženska cipela koju je kreirao francuski modni brend Givenchy. Ove stikle su izrađene od visokokvalitetnih materijala poput kože, satena ili sjajne kože te su dostupne u raznim bojama i uzorcima. Givenchy stikla ima jedinstven i prepoznatljiv dizajn koji uključuje zaobljeni vrh i tanku, visoku potpeticu koja je ujedno i stabilna i udobna. Ove stikle su vrlo elegantne i savršeno se uklapaju u formalne i svečane prigode. Givenchy stikle su izrađene s posebnom pažnjom prema detaljima i vrhunskom kvalitetom, što ih čini dugotrajnim i pouzdanim cipelama za vašu kolekciju obuće. Ako tražite elegantne i sofisticirane cipele koje će upotpuniti vašu garderobu, Givenchy stikle su sjajan izbor.",
+        "kategorijaID": 2,
+        "brendID": 6,
+        "polID": 2,
+        "cena": 
+        {
+            "staraCena": 7500,
+            "aktivnaCena": 6750
+        },
+        "popust":
+        {
+            "procenat": 10,
+            "vaziDo": "2023-04-31"
+        },
+        "slika": 
+        {
+            "src": "Givenchy-Antigona.png",
+            "alt": "Givenchy Antigona"
+        },
+        "ocena": 4,
+        "datumKreiranja": "2019-12-31"
+    },
+    {
+        "id": 3,
+        "naziv": "Nike AirMax 270",
+        "opis": "Nike AirMax 270 patike su popularne patike koje su dostupne u muškoj i ženskoj verziji. Ove patike su izrađene od visokokvalitetnih materijala i imaju moderni i udoban dizajn. Jedna od ključnih karakteristika Nike AirMax 270 patika je AirMax jedinica u peti, koja pruža maksimalnu udobnost i smanjuje pritisak na stopalima. Uz to, ove patike imaju fleksibilni gornji dio i čvrstu gumenu potplat, koji osigurava odličnu trakciju i stabilnost. Nike AirMax 270 patike dostupne su u različitim bojama i uzorcima, tako da možete pronaći nešto što odgovara vašem stilu i osobnosti. Ove patike su pogodne za trčanje, trening ili jednostavno kao modni dodatak. Bilo da su namijenjene sportskim aktivnostima ili modnom stilu, Nike AirMax 270 patike su izvrsna opcija za svakoga tko traži moderne i udobne patike.",
+        "kategorijaID": 1,
+        "brendID": 1,
+        "polID": 1,
+        "cena": 
+        {
+            "staraCena": null,
+            "aktivnaCena": 12000
+        },
+        "popust": null,
+        "slika": 
+        {
+            "src": "Nike-AirMax270.png",
+            "alt": "Nike AirMax 270"
+        },
+        "ocena": 3,
+        "datumKreiranja": "2019-12-31"
+    },
+    {
+        "id": 4,
+        "naziv": "Puma RS-X",
+        "opis": "Puma RS-X su popularne sportske patike koje su dostupne u muškoj i ženskoj verziji. Ove patike su inspirirane retro stilom iz 80-ih i 90-ih godina, ali imaju moderni dizajn i tehnologiju. Jedna od ključnih karakteristika Puma RS-X patika je lagani i udobni dizajn, što ih čini idealnim za trčanje, hodanje i druge sportske aktivnosti. Ove patike također imaju poseban sustav za ublažavanje udaraca i pružaju izvrsnu potporu stopalu. Puma RS-X patike su dostupne u različitim bojama i uzorcima, što znači da možete pronaći par koji odgovara vašem stilu. Ove patike su vrlo popularne među ljubiteljima sportske obuće i modnih entuzijasta zbog svog retro izgleda i modernih značajki. Ako tražite sportske patike koje su udobne, moderne i vrlo funkcionalne, Puma RS-X su sjajan izbor.",
+        "kategorijaID": 1,
+        "brendID": 3,
+        "polID": 1,
+        "cena": 
+        {
+            "staraCena": 11200,
+            "aktivnaCena": 8400
+        },
+        "popust": {
+            "procenat": 25,
+            "vaziDo": "2023-05-12"
+        },
+        "slika": 
+        {
+            "src": "Puma-RSX.png",
+            "alt": "Puma RS-X"
+        },
+        "ocena": null,
+        "datumKreiranja": "2019-12-31"
+    },
+    {
+        "id": 5,
+        "naziv": "Magnanni muska cipela",
+        "opis": "Magnanni je luksuzni španjolski brend koji je poznat po svojoj izradi visokokvalitetne obuće. Magnanni muške cipele su elegantne i udobne cipele koje su idealne za formalne prigode i poslovne događaje. Ove cipele su izrađene od najfinije kože i detaljno obrađene ručno od strane vještih majstora. Magnanni muške cipele imaju klasičan dizajn i dolaze u različitim stilovima i bojama, tako da možete pronaći par koji odgovara vašem ukusu i potrebama. Jedna od ključnih karakteristika Magnanni muških cipela je kvaliteta materijala i obrade, što ih čini vrlo izdržljivima i dugotrajnima. Ove cipele također imaju udoban i oblikovan đon, što omogućuje udobno nošenje tijekom cijelog dana. Magnanni muške cipele su savršen izbor za one koji traže elegantne i udobne cipele za posao ili posebne prigode. Sa svojom vrhunskom izradom i kvalitetom materijala, Magnanni muške cipele su dugoročna investicija koja će trajati godinama.",
+        "kategorijaID": 3,
+        "brendID": 8,
+        "polID": 1,
+        "cena": 
+        {
+            "staraCena": null,
+            "aktivnaCena": 4900
+        },
+        "popust": null,
+        "slika": 
+        {
+            "src": "Magnanni-MuskaCipela.png",
+            "alt": "Magnanni muska cipela"
+        },
+        "ocena": 4,
+        "datumKreiranja": "2019-12-31"
+    },
+    {
+        "id": 6,
+        "naziv": "Nike Air Force 1",
+        "opis": "Nike Air Force 1 patike su jedan od najpopularnijih modela sportske obuće svih vremena, i dostupne su u muškoj i ženskoj verziji. Ove patike su izrađene od vrhunskih materijala i imaju prepoznatljiv i jednostavan dizajn. Jedna od ključnih karakteristika Nike Air Force 1 patika je Air jedinica u peti koja pruža izvrsnu udobnost i ublažava pritisak na stopalima. Ove patike imaju također čvrsti i fleksibilni gornji dio i gumenu potplatu, što omogućuje izvrsnu trakciju i stabilnost. Nike Air Force 1 patike su dostupne u mnogim različitim bojama, materijalima i uzorcima, tako da možete pronaći par koji odgovara vašem stilu. Ove patike su pogodne za sportske aktivnosti, kao i za svakodnevnu upotrebu, i ujedno su savršene za stvaranje trendi i modernih izgleda. Ako tražite klasične i udobne sportske patike koje će trajati dugo vremena, Nike Air Force 1 su sjajan izbor. Ove patike su postale ikona među sportskom obućom zbog svog prepoznatljivog izgleda, udobnosti i trajnosti.",
+        "kategorijaID": 1,
+        "brendID": 1,
+        "polID": 2,
+        "cena": 
+        {
+            "staraCena": null,
+            "aktivnaCena": 10600
+        },
+        "popust": null,
+        "slika": 
+        {
+            "src": "Nike-AirForce1.png",
+            "alt": "Nike Air Force 1"
+        },
+        "ocena": 3,
+        "datumKreiranja": "2019-12-31"
+    },
+    {
+        "id": 7,
+        "naziv": "Gucci Dionysus",
+        "opis": "Gucci je poznati talijanski brend koji proizvodi vrhunsku obuću, odjeću i modne dodatke. Gucci stikle su popularne ženske cipele koje su dostupne u različitim stilovima, bojama i uzorcima. Jedna od ključnih karakteristika Gucci stikli je visokokvalitetna izrada i korištenje najboljih materijala, poput fine kože, svile i drugih luksuznih tkanina. Ove stikle imaju prepoznatljiv Gucci dizajn, s naglaskom na detaljima poput metalnih okvira i Gucci logotipa. Gucci stikle su vrlo udobne i elegantne, što ih čini idealnim za nošenje na posebnim prigodama, poput vjenčanja, gala večera i drugih svečanih događaja. Međutim, ove stikle mogu se kombinirati i s casual odjećom, stvarajući trendi i sofisticiran izgled. Ako tražite visokokvalitetne i elegantne stikle koje će vam trajati dugi niz godina, Gucci stikle su izvrsna investicija. Ove stikle su znak luksuza i prestiža, a uz njih ćete zasigurno privući pažnju i stvoriti sjajan dojam.",
+        "kategorijaID": 2,
+        "brendID": 5,
+        "polID": 2,
+        "cena": 
+        {
+            "staraCena": 9200,
+            "aktivnaCena": 8820
+        },
+        "popust": {
+            "procenat": 15,
+            "vaziDo": "2023-05-01"
+        },
+        "slika": 
+        {
+            "src": "Gucci-Dionysus.png",
+            "alt": "Gucci Dionysus"
+        },
+        "ocena": 5,
+        "datumKreiranja": "2019-12-31"
+    },
+    {
+        "id": 8,
+        "naziv": "Nike Red Octobers",
+        "opis": "Nike Red Octobers patike su jedan od najpopularnijih i najtraženijih modela Nike tenisica svih vremena. Ovaj model patika, koji je dizajnirao Kanye West, predstavljen je 2014. godine i od tada je postao kultni predmet među kolekcionarima. Red Octobers su crvene tenisice s prepoznatljivim Nike Air jedinicom i visokom potplatom. Izrađene su od vrhunskog materijala koji pruža udobnost i trajnost, a prepoznatljiv su i po krilima na bočnoj strani i velikim Nike logotipom na jeziku. Ove patike su popularne među kolekcionarima i ljubiteljima street style mode zbog svog jedinstvenog izgleda i ekskluzivnosti. Nike Red Octobers patike su rijetke i teško ih je pronaći, što ih čini vrlo cijenjenima među kolekcionarima. Ako želite biti u trendu i posjedovati jedinstveni model Nike tenisica, Nike Red Octobers su sjajan izbor. Međutim, budući da su vrlo rijetke i teško ih je pronaći, mogu biti vrlo skupi.",
+        "kategorijaID": 1,
+        "brendID": 1,
+        "polID": 2,
+        "cena": 
+        {
+            "staraCena": null,
+            "aktivnaCena": 5500
+        },
+        "popust": null,
+        "slika": 
+        {
+            "src": "Nike-RedOctobers.png",
+            "alt": "Nike Red Octobers"
+        },
+        "ocena": null,
+        "datumKreiranja": "2019-12-31"
+    },
+    {
+        "id": 9,
+        "naziv": "Ted Baker London",
+        "opis": "Ted Baker London je britanski modni brend poznat po svom sofisticiranom i modernom stilu, a Ted Baker London cipele nisu iznimka. Ove cipele su dizajnirane s naglaskom na detaljima, vrhunskom kvalitetom materijala i funkcionalnosti. Ted Baker London cipele dolaze u različitim stilovima, od formalnih cipela za poslovne prigode do casual tenisica za svakodnevno nošenje. Uz to, dolaze u raznim bojama i uzorcima, tako da svatko može pronaći nešto za sebe. Ove cipele su izrađene od vrhunskih materijala poput kože, antilopa, camoze i drugih luksuznih tkanina. Ted Baker London cipele su udobne i pružaju potporu za stopala, što ih čini idealnim za nošenje tijekom cijelog dana. Dizajn Ted Baker London cipela je moderan i elegantan, a uključuje prepoznatljive detalje poput metalnih zakovica i logotipa brenda. Ted Baker London cipele su stvorene za moderne muškarce koji traže kvalitetne cipele koje su jednako atraktivne i funkcionalne. Ako tražite kvalitetne i stilski modne cipele za poslovne ili casual prigode, Ted Baker London cipele su sjajan izbor. Ove cipele su izvrsna investicija koja će vam trajati dugi niz godina i pružiti vam sjajan izgled i udobnost.",
+        "kategorijaID": 3,
+        "brendID": 9,
+        "polID": 1,
+        "cena": 
+        {
+            "staraCena": null,
+            "aktivnaCena": 8900
+        },
+        "popust": null,
+        "slika": 
+        {
+            "src": "TedBaker-London.png",
+            "alt": "Ted Baker London"
+        },
+        "ocena": 4,
+        "datumKreiranja": "2019-12-31"
+    },
+    {
+        "id": 10,
+        "naziv": "Air Jordan 1 Retro",
+        "opis": "Air Jordan 1 Retro patike su jedan od najprepoznatljivijih i najomiljenijih modela sportskih patika na svijetu. Ovaj model je dizajniran u suradnji s košarkaškom legendom Michaelom Jordanom i prvi put je predstavljen 1985. godine. Air Jordan 1 Retro patike su izrađene od vrhunskih materijala i dostupne su u različitim bojama i uzorcima. Jedan od najpopularnijih stilova je crno-bijeli model, s crvenim detaljima i logotipom Air Jordan na jeziku. Ove patike su izvrsne za sportske aktivnosti i svakodnevno nošenje. Imaju debeli potplat s Nike Air jedinicom, što pruža potporu stopalima i udobnost tijekom cijelog dana. Osim toga, Air Jordan 1 Retro patike su i vrlo atraktivne, što ih čini omiljenima među ljubiteljima street style mode. Ovaj model patika se stalno obnavlja i unaprjeđuje, tako da su dostupne u različitim verzijama koje uključuju nove materijale i boje. Air Jordan 1 Retro patike su sinonim za vrhunsku kvalitetu, stil i udobnost te su idealne za sve ljubitelje sportske obuće.",
+        "kategorijaID": 1,
+        "brendID": 4,
+        "polID": 1,
+        "cena": 
+        {
+            "staraCena": 14300,
+            "aktivnaCena": 13585
+        },
+        "popust": {
+            "procenat": 5,
+            "vaziDo": "2023-04-31"
+        },
+        "slika": 
+        {
+            "src": "AirJordan-1Retro.png",
+            "alt": "Air Jordan 1 Retro"
+        },
+        "ocena": 2,
+        "datumKreiranja": "2019-12-31"
+    },
+    {
+        "id": 11,
+        "naziv": "Akris stikla",
+        "opis": "Akris je luksuzni brend poznat po svojim sofisticiranim i modernim kolekcijama. Akris stikle su dizajnirane s naglaskom na detaljima i vrhunskoj kvaliteti materijala. Ove stikle su namijenjene modernim ženama koje cijene kvalitetnu obuću i eleganciju. Akris stikle dolaze u različitim stilovima, od klasičnih crnih salonki do modernijih modela s niskom petom. Uz to, dolaze u različitim bojama i uzorcima, što omogućuje odabir onoga što najbolje odgovara vašem stilu. Ove stikle su izrađene od visokokvalitetnih materijala poput kože, antilopa i drugih luksuznih tkanina. Akris stikle su udobne i pružaju potporu stopalima, što ih čini idealnima za nošenje tijekom cijelog dana. Dizajn Akris stikli je moderan i elegantan, a uključuje prepoznatljive detalje poput elegantnih mašni i metalnih zakovica. Akris stikle su stvorene za moderne žene koje traže kvalitetnu obuću koja je jednako atraktivna i funkcionalna. Ako tražite luksuzne, elegantne stikle koje će trajati dugi niz godina, Akris stikle su sjajan izbor. Ove stikle su izvrsna investicija koja će vam trajati dugi niz godina i pružiti vam sjajan izgled i udobnost.",
+        "kategorijaID": 2,
+        "brendID": 7,
+        "polID": 2,
+        "cena": 
+        {
+            "staraCena": null,
+            "aktivnaCena": 10450
+        },
+        "popust": null,
+        "slika": 
+        {
+            "src": "Akris-Stikla.png",
+            "alt": "Akris stikla"
+        },
+        "ocena": null,
+        "datumKreiranja": "2019-12-31"
+    },
+    {
+        "id": 12,
+        "naziv": "Adidas Ultra Boost",
+        "opis": "Adidas Ultra Boost patike su popularan model sportske obuće koji je osvojio srca mnogih ljubitelja trčanja, fitnessa i streetwear mode. Ovaj model je poznat po svom vrhunskom udobnosti i atraktivnom dizajnu, a izrađen je od vrhunskih materijala. Jedna od ključnih značajki Adidas Ultra Boost patika je jedinstveni potplat s tehnologijom BOOST. Ova tehnologija pruža iznimnu podršku i udobnost stopalima, a istovremeno apsorbira udarce tijekom trčanja i drugih aktivnosti. Potplat je također izuzetno fleksibilan i omogućuje prirodne pokrete stopala. Adidas Ultra Boost patike su dostupne u različitim bojama i uzorcima, od klasičnih crnih i bijelih do svijetlih i živopisnih boja. Osim toga, ovaj model patika je izrađen od vrhunskih materijala poput prave kože i sintetičkih materijala, što pruža izdržljivost i trajnost. Ove patike su izvrsne za trčanje, fitness i svakodnevno nošenje. Osiguravaju udobnost i potporu stopalima, čak i tijekom dužih aktivnosti. Adidas Ultra Boost patike su također vrlo popularne među ljubiteljima streetwear mode zbog svog atraktivnog dizajna. Ukratko, Adidas Ultra Boost patike su jedan od najpopularnijih i najprepoznatljivijih modela sportske obuće na tržištu danas. Izvrsne su za trčanje, fitness i svakodnevno nošenje, a istovremeno pružaju udobnost, potporu i atraktivan izgled.",
+        "kategorijaID": 1,
+        "brendID": 2,
+        "polID": 2,
+        "cena": 
+        {
+            "staraCena": 7900,
+            "aktivnaCena": 7110
+        },
+        "popust": {
+            "procenat": 10,
+            "vaziDo": "2023-05-05"
+        },
+        "slika": 
+        {
+            "src": "Adidas-UltraBoost.png",
+            "alt": "Adidas Ultra Boost"
+        },
+        "ocena": 5,
+        "datumKreiranja": "2019-12-31"
+    },
+    {
+        "id": 13,
+        "naziv": "Gucci Rhyton",
+        "opis": "Gucci je poznati talijanski modni brend koji je u svom asortimanu proizvoda uključio i širok izbor luksuznih muških cipela. Njihove cipele su izrađene od najfinijih materijala, vrhunske kvalitete i ručno obrađene do savršenstva. U njihovoj kolekciji možete pronaći razne modele muških cipela, uključujući elegantne cipele za odijela, casual tenisice, čizme, loaferice i još mnogo toga. Često su izrađene od kože, što osigurava udobnost i trajnost. Gucci muške cipele također su poznate po svojim karakterističnim detaljima, kao što su GG monogrami, metalni logotip, pačje perje i drugi ukrasi koji čine ove cipele prepoznatljivima i luksuznima. Ukratko, Gucci ima širok izbor luksuznih muških cipela koje kombiniraju kvalitetu, eleganciju i stil. Od casual tenisica do elegantnih cipela za odijela, njihove cipele su izvrsne za bilo koju prigodu i čine savršen dodatak garderobi modernog i stilski osviještenog muškarca.",
+        "kategorijaID": 3,
+        "brendID": 5,
+        "polID": 1,
+        "cena": 
+        {
+            "staraCena": null,
+            "aktivnaCena": 14700
+        },
+        "popust": null,
+        "slika": 
+        {
+            "src": "Gucci-Rhyton.png",
+            "alt": "Gucci Rhyton"
+        },
+        "ocena": null,
+        "datumKreiranja": "2019-12-31"
+    },
+    {
+        "id": 14,
+        "naziv": "Givenchy Beauty",
+        "opis": "Givenchy Beauty je linija parfema i kozmetike brenda Givenchy, pa ne postoji model stikli koji se zove Givenchy Beauty stikle. Međutim, Givenchy je poznat po svojim luksuznim i modernim cipelama, koje su dizajnirane s visokim standardima kvalitete i estetike. Njihove stikle su često izrađene od kvalitetne kože ili drugih luksuznih materijala, kao što su baršun, saten ili brušena koža. Često se koriste neobični oblici peta, detalji na petama, kristali i drugi ukrasi koji stvaraju jedinstven i prepoznatljiv stil. Givenchy Beauty linija također uključuje parfeme i kozmetiku visoke kvalitete, koji se također mogu koristiti kao dodatak stajlingu i ukupnom izgledu.",
+        "kategorijaID": 2,
+        "brendID": 6,
+        "polID": 2,
+        "cena": 
+        {
+            "staraCena": 11450,
+            "aktivnaCena": 9160
+        },
+        "popust": {
+            "procenat": 20,
+            "vaziDo": "2023-05-01"
+        },
+        "slika": 
+        {
+            "src": "Givenchy-Beauty.png",
+            "alt": "Givenchy Beauty"
+        },
+        "ocena": 4,
+        "datumKreiranja": "2019-12-31"
+    },
+    {
+        "id": 15,
+        "naziv": "Adidas Yeezy",
+        "opis": "Adidas Yeezy patike su kolekcija sportske obuće koju je stvorio Adidas u suradnji s američkim reperom Kanye Westom. Ove patike su postale vrlo popularne zbog svoje inovativne i jedinstvene estetike te visoke razine udobnosti. Yeezy patike su obično izrađene od najfinijih materijala, uključujući primeknit tkaninu, kožu i druge luksuzne materijale. Njihov jednostavan dizajn i minimalistička estetika sastavni su dio njihove popularnosti. Osim svojeg jedinstvenog dizajna, Yeezy patike su također poznate po svojim inovativnim tehnologijama, kao što je Boost tehnologija, koja pruža vrhunsku udobnost i potporu stopalu. Ove tehnologije čine ove patike idealnim za sportske aktivnosti, ali i svakodnevno nošenje. Adidas Yeezy patike su postale jedan od najpopularnijih modela sportske obuće danas, a svojim jedinstvenim dizajnom i tehnologijom su osvojile srca mnogih ljubitelja mode i sportske obuće.",
+        "kategorijaID": 1,
+        "brendID": 2,
+        "polID": 2,
+        "cena": 
+        {
+            "staraCena": null,
+            "aktivnaCena": 6200
+        },
+        "popust": null,
+        "slika": 
+        {
+            "src": "Adidas-Yeezy.png",
+            "alt": "Adidas Yeezy"
+        },
+        "ocena": 3,
+        "datumKreiranja": "2019-12-31"
+    },
+    {
+        "id": 16,
+        "naziv": "Puma Pacer",
+        "opis": "Puma Pacer su sportske patike koje su namijenjene za trčanje i ostale sportske aktivnosti. Ove patike su izrađene od kvalitetnih materijala koji pružaju vrhunsku udobnost i potporu stopalu tijekom trčanja. Puma Pacer imaju jednostavan i moderan dizajn s klasičnim izgledom. Gornji dio patike je izrađen od prozračne mrežaste tkanine koja omogućava slobodan protok zraka, dok potplat od gume osigurava dobru stabilnost i prianjanje na različitim površinama. Ove patike su opremljene Puma tehnologijom SoftFoam, koja pruža dodatnu udobnost i amortizaciju tijekom trčanja ili drugih sportskih aktivnosti. Osim toga, Puma Pacer su vrlo lagane i fleksibilne, što ih čini idealnim za svakodnevno nošenje i trčanje. Puma Pacer su dostupne u različitim bojama i veličinama, što ih čini prikladnima za različite potrebe i ukuse. Ove patike su idealne za sve koji traže kvalitetnu sportsku obuću po pristupačnoj cijeni.",
+        "kategorijaID": 1,
+        "brendID": 3,
+        "polID": 1,
+        "cena": 
+        {
+            "staraCena": null,
+            "aktivnaCena": 7500
+        },
+        "popust": null,
+        "slika": 
+        {
+            "src": "Puma-Pacer.png",
+            "alt": "Puma Pacer"
+        },
+        "ocena": null,
+        "datumKreiranja": "2019-12-31"
+    },
+    {
+        "id": 17,
+        "naziv": "Gucci Love",
+        "opis": "Gucci raznobojne stikle su dio Gucci kolekcije obuće koja se ističe svojim šarenim dizajnom i luksuznom izradom. Ove stikle su vrlo popularne među ljubiteljima mode zbog svoje jedinstvene estetike i kreativnog dizajna. Gucci raznobojne stikle se izrađuju od najkvalitetnijih materijala, uključujući kožu, svilu i druge luksuzne tkanine. Dostupne su u različitim bojama i uzorcima, uključujući cvjetne uzorke, animal printove i geometrijske oblike. Ove stikle su obično visoke potpetice s elegantnim i modernim dizajnom. Imaju izuzetno udoban uložak koji pruža potporu stopalu tijekom cijelog dana. Osim toga, Gucci raznobojne stikle su vrlo fleksibilne i lagane, što ih čini idealnim za nošenje na dugim događajima. Gucci raznobojne stikle su savršen izbor za posebne prigode i dodatak svakoj modnoj kombinaciji koja traži šareni dodir. Ove stikle su luksuzni komad obuće koji će dodati eleganciju i razigranost bilo kojoj odjevnoj kombinaciji.",
+        "kategorijaID": 2,
+        "brendID": 5,
+        "polID": 2,
+        "cena": 
+        {
+            "staraCena": 13600,
+            "aktivnaCena": 11970
+        },
+        "popust": {
+            "procenat": 12,
+            "vaziDo": "2023-05-10"
+        },
+        "slika": 
+        {
+            "src": "Gucci-Love.png",
+            "alt": "Gucci Love"
+        },
+        "ocena": 4,
+        "datumKreiranja": "2019-12-31"
+    },
+    {
+        "id": 18,
+        "naziv": "Puma Cali Bold",
+        "opis": "Puma Cali Bold patike su moderne sportske patike koje se ističu svojim jednostavnim, ali atraktivnim dizajnom. Ove patike su inspirirane klasičnim Puma tenisicama, ali su redizajnirane s modernim detaljima i udobnim materijalima. Gornji dio Puma Cali Bold patika izrađen je od kože i sintetičkog materijala, što daje patikama moderni i trendi izgled. Uložak od pjenaste gume SoftFoam pruža udobnost i potporu stopalu tijekom cijelog dana. Potplat od gume osigurava dobro prianjanje na različitim površinama. Ove patike su dostupne u različitim bojama, uključujući bijelu, crnu, rozu i žutu, što ih čini prikladnima za različite stilove i modne kombinacije. Puma Cali Bold patike su lagane i udobne, što ih čini idealnim za svakodnevno nošenje i sportske aktivnosti. Puma Cali Bold patike su namijenjene za sve ljubitelje sportske obuće koji traže udobne i moderne patike po pristupačnoj cijeni. Ove patike će dodati trendi i moderni dodir svakoj odjevnoj kombinaciji.",
+        "kategorijaID": 1,
+        "brendID": 3,
+        "polID": 2,
+        "cena": 
+        {
+            "staraCena": null,
+            "aktivnaCena": 8300
+        },
+        "popust": null,
+        "slika": 
+        {
+            "src": "Puma-CaliBold.png",
+            "alt": "Puma Cali Bold"
+        },
+        "ocena": null,
+        "datumKreiranja": "2019-12-31"
+    },
+    {
+        "id": 19,
+        "naziv": "Air Jordan 1 Mid SE",
+        "opis": "Air Jordan 1 Mid SE su moderne sportske patike inspirirane klasičnim Air Jordan 1 modelom, koji je postao kultni dizajn u svijetu tenisica. Ove patike se ističu svojim jednostavnim, ali atraktivnim dizajnom, kao i kvalitetom izrade i udobnosti. Gornji dio Air Jordan 1 Mid SE patika izrađen je od kombinacije kože i sintetičkog materijala, što daje patikama moderan izgled i omogućuje izdržljivost. Srednji potplat sa Zoom Air tehnologijom pruža maksimalnu udobnost i potporu stopalu tijekom dužih sportskih aktivnosti. Potplat od gume osigurava dobro prianjanje na različitim površinama. Ove patike dolaze u različitim bojama, uključujući crnu, bijelu, crvenu i plavu, što ih čini prikladnima za različite stilove i modne kombinacije. Air Jordan 1 Mid SE patike se mogu nositi u različitim prilikama, bilo da se radi o sportskim aktivnostima ili svakodnevnom nošenju. Air Jordan 1 Mid SE patike su namijenjene za sve ljubitelje sportske obuće koji traže udobne, moderne i kvalitetno izrađene patike po pristupačnoj cijeni. Ove patike će dodati sportski i moderan dodir svakoj odjevnoj kombinaciji.",
+        "kategorijaID": 1,
+        "brendID": 4,
+        "polID": 1,
+        "cena": 
+        {
+            "staraCena": null,
+            "aktivnaCena": 16400
+        },
+        "popust": null,
+        "slika": 
+        {
+            "src": "AirJordan-1MidSE.png",
+            "alt": "Air Jordan 1 Mid SE"
+        },
+        "ocena": 5,
+        "datumKreiranja": "2019-12-31"
+    }
+]

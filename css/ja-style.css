@@ -1,0 +1,214 @@
+nav ul li a{
+    text-transform: uppercase;
+}
+.red-link{
+    color: #ff0000!important;
+}
+.product-men{
+    margin-bottom: 20px;
+}
+.rejting.aktivan span{
+    color: #ff0000!important;
+}
+.rejting.aktivan i{
+    color: #ff0000!important;
+}
+#sliderCena{
+    font-size: 15px;
+    font-weight: bold;
+}
+.sort{
+    margin-bottom: 20px;
+}
+.sort label{
+    font-size: 15px;
+}
+#sortiranje{
+    margin-left: 10px;
+    padding: 10px;
+}
+#slikaProizvoda img{
+   margin: 0px auto;
+}
+.rating1{
+    margin-bottom: 15px;
+}
+#katNaziv{
+    font-size: 20px;
+    font-weight: bold;
+}
+.aktivnaCena{
+    font-size: 17px!important;
+    font-weight: bold!important;
+}
+.staraCena{
+    font-size: 15px!important;
+    font-weight: bold!important;
+}
+.close{
+    color: #f00!important;
+    font-size: 30px;
+    font-weight: bold;
+}
+#modal{
+    border-radius: 5px;
+    margin: 0px auto;
+    margin-top: 100px;
+    position: fixed;
+    top: 5%;
+    right: 5%;
+    width: 400px;
+    color: #fff;
+    display: none;
+    z-index: 9999;
+}
+.sadrzaj{
+    background: #1c1c1c;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    transition: all 1s;
+}
+.dodato,.nijeDodato{
+    border-radius: 50%;
+    margin-left: 10px;
+}
+.dodato{
+    padding: 7px;
+    background-color: #32ac32;
+}
+.nijeDodato{
+    padding: 7px 9px;
+    background-color: #ff0000;
+}
+.idiGore{
+    transform: translateY(-500%);
+}
+.otvoren{
+    background: #272727!important;
+}
+#ukupnaCena{
+    font-size: 20px;
+    font-weight: bold;
+    color: #212121;
+}
+#praznaKorpa{
+    text-align: center;
+    margin-bottom: 50px;
+}
+#idiUProdavnicu{
+    padding: 10px 50px;
+    background: #fb383b;
+    font-size: 17px;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+}
+.timetable_sub tbody img{
+   width: 100px;
+   margin: 0px auto;
+}
+#obrisiSve h4{
+    background: #212121!important;
+}
+.cenaProizvoda{
+    font-size: 17px!important;
+}
+.ukupnaCenaProizvoda{
+    font-size: 17px!important;
+    font-weight: bold;
+}
+input[name="placanje"]{
+    width: auto!important;
+    display: inline-block;
+    margin-right: 5px;
+}
+input[name="placanje"]:last-of-type{
+    margin-left: 20px;
+}
+#placanje{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+#placanje label{
+    margin: 0;
+    margin-right: 15px;
+}
+#obaveznaPolja{
+    font-weight: bold;
+    font-size: 16px;
+}
+.address_form input{
+    margin-bottom: 10px!important;
+}
+.greska{
+    color: #ff0000;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+#poruceno{
+    color:#017e01;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 70px;
+}
+.occasion-cart{
+    margin-top: 20px;
+}
+#uspehPoruka{
+    display: none;
+    color: #017e01;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.ukloniProizvod{
+    color: red;
+    font-weight: bold;
+}
+#okvir{
+    padding: 100px 0px;
+    width: 80%;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#okvir #info{
+    width: 50%;
+}
+#okvir #info p{
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+@media(max-width: 991px){
+    #okvir{
+        flex-direction: column;
+    }
+    #okvir #info{
+        margin-top: 30px;
+        text-align: center;
+    }
+    #okvir #info{
+        width: 100%;
+    }
+}
+@media(max-width: 520px){
+    figure{
+        text-align: center;
+    }
+    figure img{
+        width: 90%;
+    }
+    h1{
+        font-size: 25px;
+    }
+}
